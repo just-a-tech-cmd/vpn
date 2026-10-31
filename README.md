@@ -53,3 +53,11 @@
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/767dc610-adad-4ede-afd2-5c79f82b9d98" />
 
+
+
+Спустя некоторое время увеличилось количество пользователей:
+<img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/8be6d360-dc32-4af7-afe6-f53d39210f1b" />
+
+
+Тем самым , некоторые пользователи начали покупать подписки : 
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/5f6bfdb6-2a88-4575-813d-8b7c8cee0781" />
