@@ -21,7 +21,7 @@
 2. Telegram-бот (Интерфейс пользователя)
 Единственная точка контакта с клиентом: от выбора тарифа и оплаты до получения инструкций и поддержки.
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/925c7266-58a8-4203-9957-eb7483095125" />
+<img width="433" height="614" alt="image" src="https://github.com/user-attachments/assets/925c7266-58a8-4203-9957-eb7483095125" />
 
 
 
@@ -49,7 +49,7 @@
 Полный доступ к AI-сервисам (Gemini, ChatGPT, Claude): Использование чистых IP-адресов на нодах позволяет беспрепятственно работать с нейросетями и зарубежными сервисами
 без регулярных банов, "капч" и ошибок доступа, с которыми сталкиваются пользователи обычных VPN.
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/767dc610-adad-4ede-afd2-5c79f82b9d98" />
+<img width="433" height="614" alt="image" src="https://github.com/user-attachments/assets/767dc610-adad-4ede-afd2-5c79f82b9d98" />
 
 
 
