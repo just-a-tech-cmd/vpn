@@ -53,11 +53,20 @@
 
 
 
+
 📈 Рост пользователей
 Благодаря надежному обходу блокировок и быстрому доступу к нейросетям без капчи, количество пользователей начало активно расти.
+
 <img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/8be6d360-dc32-4af7-afe6-f53d39210f1b" />
 
 
 💰 Первые продажи
 Убедившись, что всё отлично работает, клиенты охотно покупают платные подписки прямо в боте, принося проекту первый доход.
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/5f6bfdb6-2a88-4575-813d-8b7c8cee0781" />
+
+<img width="591" alt="image" src="https://github.com/user-attachments/assets/5f6bfdb6-2a88-4575-813d-8b7c8cee0781" />
+
+
+
+
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/b6c1f8b4-d0a7-41ce-8c2b-4d0952ef4b04" />
+
