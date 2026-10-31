@@ -63,10 +63,10 @@
 💰 Первые продажи
 Убедившись, что всё отлично работает, клиенты охотно покупают платные подписки прямо в боте, принося проекту первый доход.
 
-<img width="591" alt="image" src="https://github.com/user-attachments/assets/5f6bfdb6-2a88-4575-813d-8b7c8cee0781" />
+<img width="433" height="614" alt="image" src="https://github.com/user-attachments/assets/5f6bfdb6-2a88-4575-813d-8b7c8cee0781" />
 
 
 
 
-<img width="591" alt="image" src="https://github.com/user-attachments/assets/b6c1f8b4-d0a7-41ce-8c2b-4d0952ef4b04" />
+<img width="433" height="614" alt="image" src="https://github.com/user-attachments/assets/b6c1f8b4-d0a7-41ce-8c2b-4d0952ef4b04" />
 
