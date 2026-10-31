@@ -24,7 +24,8 @@
 2. Telegram-бот (Интерфейс пользователя)
 Единственная точка контакта с клиентом: от выбора тарифа и оплаты до получения инструкций и поддержки.
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/2dfa96bc-3c7f-47bc-b848-c7f5e1198cf1" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/925c7266-58a8-4203-9957-eb7483095125" />
+
 
 
 • Автономия: Бот работает через Long Polling — ему не нужны открытые вебхуки или публичный IP-адрес. 
