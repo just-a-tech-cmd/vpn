@@ -5,7 +5,8 @@
 1. Главный сервер управления (Marzban)
 Центральный узел («мозг» системы), который отвечает за хранение базы данных, учёт трафика, управление пользователями и настройку подключений.
 
-<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/6a4b7a68-2444-455e-b076-dbfac9614719" />
+<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/22b6f64a-29cb-42f4-b284-6b8c25b2e898" />
+
 
 
 • Развёртывание: Выделенный VPS на Ubuntu. Работает в изолированных Docker-контейнерах (панель, база данных, веб-сервер). 
